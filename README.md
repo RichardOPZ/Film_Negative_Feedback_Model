@@ -48,22 +48,19 @@ F1 Score	≥ 0.85 ✅
 Accuracy	🔼 Alta
 ROC AUC	🔼 Alta
 Average Precision Score	🔼 Alta
+
 ⚙️ Librerías Utilizadas
-import math
-import re
-import matplotlib.pyplot as plt
-import nltk
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import spacy
-import sklearn.metrics as metrics
-from lightgbm import LGBMClassifier
-from nltk.corpus import stopwords as nltk_stopwords
-from sklearn.dummy import DummyClassifier
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-from tqdm.auto import tqdm
+math
+re
+matplotlib
+nltk
+numpy 
+pandas 
+seaborn as sns
+spacy
+sklearn
+lightgbm
+tqdm
 
 🚀 Conclusión
 
