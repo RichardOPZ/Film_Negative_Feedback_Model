@@ -50,17 +50,17 @@ ROC AUC	🔼 Alta
 Average Precision Score	🔼 Alta
 
 ⚙️ Librerías Utilizadas
-math
-re
-matplotlib
-nltk
-numpy 
-pandas 
-seaborn as sns
-spacy
-sklearn
-lightgbm
-tqdm
+math,
+re,
+matplotlib,
+nltk,
+numpy, 
+pandas, 
+seaborn,
+spacy,
+sklearn,
+lightgbm,
+tqdm.
 
 🚀 Conclusión
 
